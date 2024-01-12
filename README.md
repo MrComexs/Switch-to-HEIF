@@ -11,6 +11,7 @@ I need your help. Tell me your experiences of using heif by posting a new issue 
  This repo is to see if its a good fit for you or your family so what is HEIF or also know as High Efficiency Image Formate is replacement for jpg. From my testing, HEIF images save about 3/4 to 1/3 compared to jpg. Thought you will sometimtes lose a very small about of detail but not very noticable unless if you zoom in to look a every pixel. Before we take about specifics I would recommend looking at the charts below to see if the apps you use support HEIF. If you don't send images though any messaging apps then move pass the charts. 
 ### Supported Android apps
 !!! note this data was tested on a Samsung Galaxy S21 running Android 13
+
 Native support means that they are uploaded without converting to another formate.
 | App      | Suport | Native Support |
 | -------- |:------:|:--------------:|
