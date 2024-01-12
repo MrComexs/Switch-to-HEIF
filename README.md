@@ -65,4 +65,4 @@ you should switch over. As long as you don't care the the very minimal quality g
 - talk about webp as a alternative
 
 ## License
-[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+ Switch-to-HEIF © 2023 by mrcomexs is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
